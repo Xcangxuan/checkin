@@ -1,5 +1,5 @@
 #登记
-231
+9
 GitHub Actions实现[Gl][glados] 自动签到
 
 ([Gl][glados] 可用邀请码: `MW4DK-O0RSF-C7AOU-EN1MP`, 双方都有奖励天数)
